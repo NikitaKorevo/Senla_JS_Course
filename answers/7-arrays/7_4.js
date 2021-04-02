@@ -2,15 +2,13 @@
 // а возвращала массив оставшихся значений ([1, 2, 3], ["x", "y", "z"] → [[2, 3], ["y", "z"]])"
 
 let arr_arrays = [];
-let index = 0;
 
-function stash_delete_first_element (arr) {
-arr.splice(0,1);
-arr_arrays = arr_arrays.concat(arr);
-return console.log(arr_arrays);
+function stash_delete_first_element (...[]) {
+    for (let index = 0; index < arguments.length; index++) {
+        arguments[index].shift();
+        arr_arrays[index] = arguments[index];
+    }
+    console.log(arr_arrays);
 }
 
-stash_delete_first_element([1, 2, 3]);
-stash_delete_first_element(["x", "y", "z"]);
-
-// НУЖНО ПОЛУЧИТЬ! [[2, 3], ["y", "z"]]
+stash_delete_first_element([1, 2, 3], ["x", "y", "z"]);
