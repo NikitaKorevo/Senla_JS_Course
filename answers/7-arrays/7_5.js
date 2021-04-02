@@ -5,6 +5,9 @@ let string_alphabet = 'екважбигёзд'
 function sort_reverse(string) {
     let arr = string.split('');
     arr.sort();
+    arr = arr.slice (0,-1); // удаление ё
+    let index_e = arr.indexOf('е');
+    arr.splice(index_e + 1, 0, 'ё')
     arr.reverse();
     return string = arr.join('');
 }
