@@ -1,1 +1,11 @@
-# Senla_JS_Course
+# Задачи по JavaScript от [Senla](https://senlainc.com/)
+### Темы задач:
+* [Переменные](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/tasks#переменные)
+* [Строки](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/tasks#строки)
+* [Числа](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/tasks#числа)
+* [Объекты](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/tasks#объекты)
+* [Выражения и операторы. Преобразование типов.](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/tasks#выражения-и-операторы-преобразование-типов)
+* [Циклы](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/tasks#циклы)
+* [Массивы](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/tasks#массивы)
+* [Функции](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/tasks#функции)
+* [Доступ к DOM](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/tasks#доступ-к-dom)
