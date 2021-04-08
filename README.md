@@ -8,4 +8,4 @@
 * [Циклы](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/tasks#циклы) [(решения)](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/answers/6-cycles)
 * [Массивы](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/tasks#массивы) [(решения)](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/answers/7-arrays)
 * [Функции](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/tasks#функции) [(решения)](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/answers/8-functions)
-* [Доступ к DOM](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/tasks#доступ-к-dom) [(решения)](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/answers/9-DOM%20access)
+* [Доступ к DOM](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/tasks#доступ-к-dom) [(решения 1/2)](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/answers/9-DOM%20access) [(решения 2/2)](https://github.com/NikitaKorevo/Senla_JS_Course/tree/main/tasks/dom_task)
